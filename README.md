@@ -1,5 +1,10 @@
 # raspberrypi3-geth
-geth docker image for raspberry pi 3 using alpine and golang
+minimal ethereum client docker image using alpine and golang
+
+## Tags
+| tag | platform | base |
+| --- | --- | --- |
+| rpi3 | arm32v7 | [resin/raspberrypi3-alpine-golang](https://hub.docker.com/r/resin/raspberrypi3-alpine-golang/) |
 
 ## Usage
 Follow the instructions here but replace `ethereum/client-go` with `klutchell/raspberrypi3-geth`:
