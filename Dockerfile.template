@@ -1,7 +1,6 @@
 # Description:
-#	docker geth client for raspberrypi3
+#	resin.io geth client
 #	based on https://github.com/ethereum/go-ethereum/blob/master/Dockerfile
-#	and modified for raspberrypi3
 
 # Usage:
 #	https://github.com/ethereum/go-ethereum/wiki/Running-in-Docker

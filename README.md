@@ -1,13 +1,16 @@
-# ethclientgo
+# resin-geth
 
-docker geth client for raspberrypi3
+resin.io geth client
 
 based on https://github.com/ethereum/go-ethereum/blob/master/Dockerfile
-and modified for raspberrypi3
 
 ## Getting Started
 
+_tbd_
+
 ## Deployment
+
+_tbd_
 
 ## Usage
 
